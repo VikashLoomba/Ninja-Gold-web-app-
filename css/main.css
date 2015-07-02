@@ -1,0 +1,11 @@
+
+
+.boxed_col{
+	height: 100%;
+	background-color: #eee;
+	border: 1px solid #A5A5A5;
+}
+
+textarea{
+	resize:vertical;
+}
